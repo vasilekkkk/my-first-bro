@@ -1,0 +1,35 @@
+#myheading{
+    color:hwb(281 34% 4%);
+    font-size: 36px;
+    }
+    
+    /* if we have id , we use # */
+    
+    .mytext{
+        background: lightblue ;
+    }
+    
+    a{
+        text-decoration: none;
+    }
+    .mytext2{
+        color: rgb(178, 123, 230);
+    }
+    #myheading2{
+        color: rgb(127, 144, 255);
+    }
+    #myheading3{
+        color: rgb(127, 193, 255);
+    }
+    .mytext3{
+        background-color: rgb(230, 251, 242);
+    }
+    .mytext4{
+        background-color: rgb(255, 196, 237);
+    }
+    .mytext5{
+        background-color: aliceblue;
+    }
+    .sidebar{
+        color: rgb(21, 131, 228);
+    }
